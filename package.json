@@ -1,0 +1,19 @@
+{
+  "name": "watches_ussr",
+  "version": "1.0.0",
+  "description": "This is a website for Watches USSR",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Igor B",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "lite-server": "^2.3.0",
+    "popper.js": "^1.14.6"
+  }
+}
