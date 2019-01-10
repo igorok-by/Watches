@@ -3,3 +3,12 @@
 # Useful .gitignore templates: https://github.com/github/gitignore
 
 node_modules
+CATALOGS
+doc
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
